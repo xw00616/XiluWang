@@ -4,11 +4,11 @@ title: Xilu Wang
 email:
   url: xilu.wang@uni-bielefeld.de
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://xw00616.github.io/XiluWang/
+
 ---
 
-# Wode **Ni**
+# Xilu Wang
 
 <!--
 include contact information from the front matter
