@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xilu Wang
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: xilu.wang@uni-bielefeld.de
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
